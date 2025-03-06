@@ -1,6 +1,6 @@
 ###Data Preparation
 
-## preparation process may include
+## The preparation process may include
 
 #Data (set) Selection
  • i.e. selection of relevant observations and variables associated with them
