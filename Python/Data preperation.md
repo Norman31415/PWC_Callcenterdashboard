@@ -1,17 +1,20 @@
-###Data Preparation
+#Data Preparation
 
-## The preparation process may include
+The preparation process may include
 
-#Data (set) Selection
+Data (set) Selection
  • i.e. selection of relevant observations and variables associated with them
-#Data cleaning
+ 
+＃Data cleaning
 • i.e. remove missing or wrong variable values
-#Data Transformation
+
+Data Transformation
 • Changing the format of data according to the analysis
 • Transforming the data’s dimensionality
 • Data reduction and discretization
-# Feature selection
-# Sampling
+Feature selection
+ 
+Sampling
 
 
 
